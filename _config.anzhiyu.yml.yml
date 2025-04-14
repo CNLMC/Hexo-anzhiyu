@@ -150,7 +150,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://img.cnlmc.ip-ddns.com/PicGo/南京博物院.jpg # "background: url() top / cover no-repeat"
+index_img: "background: url('https://img.cnlmc.ip-ddns.com/PicGo/南京博物院.jpg') top / cover no-repeat" # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://img.cnlmc.ip-ddns.com/PicGo/南京中华门夜景.jpg

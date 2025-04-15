@@ -1,0 +1,49 @@
+- class_name: 友情链接
+  flink_style: anzhiyu
+  class_desc: 我的好兄弟小杨
+  link_list:
+    - name: 小杨的树洞
+      link: https://imjianhao.cn/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/小杨头像.jpg
+      descr: 哈哈！这可是我老铁的博客！
+    - name: 小杨的另一个树洞
+      link: https://blog68.imjianhao.cn/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/小杨头像2.jpg
+      descr: 同样是我老铁的博客，界面更新潮！
+
+- class_name: 博客
+  flink_style: flexcard
+  class_desc: 值得推荐的博客
+  link_list:
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/Butterfly.jpg
+      descr: ‌Hexo博客框架的主题，非常漂亮！
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/Fomalhaut.jpg
+      descr: 魔改‌Hexo博客主题Butterfly，还有很多其他技术分享！
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+      color: vip
+      tag: 技术
+
+- class_name: B站UP主
+  flink_style: telescopic
+  class_desc: 值得推荐的B站UP主
+  link_list:
+    - name: 技术爬爬虾
+      link: https://space.bilibili.com/316183842
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/技术爬爬虾.jpg
+      descr: 分享好玩实用的软件DIY
+    - name: epcdiy
+      link: https://space.bilibili.com/12590
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/epcdiy.jpg
+      descr: 发布了很多有趣的技术科普
+    - name: 红警HBK08
+      link: https://space.bilibili.com/1629347259
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/红警HBK08.jpg
+      descr: 无聊时可以看看红警解解闷

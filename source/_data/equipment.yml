@@ -1,0 +1,38 @@
+- class_name: 好物
+  description: 实物装备推荐
+  tip: 跟 CNLMC 一起享受科技带来的乐趣
+  top_background: https://img02.anheyu.com/adminuploads/1/2023/07/01/649fd358745a1.webp
+  good_things:
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
+      equipment_list:
+        - name: 战神Z7-CT5NS
+          specification: 16G / 512G
+          description: i5-9300H GTX1660Ti 15.6英寸窄边框游戏本。
+          image: http://haseecomputer.com/upload/%E6%88%98%E7%A5%9EZ7-CT5NS/1.jpg
+          link: http://haseecomputer.com/PC/detail_1079.html
+        - name: 真我GT Neo5 SE
+          specification: 圣白幻影 / 16G+1T
+          description: 潮玩电竞旗舰，搭载高通骁龙7+ Gen2处理器，144Hz 1.5K屏，性价比爆表！
+          image: https://img.cnlmc.ip-ddns.com/PicGo/真我GT Neo5 SE.png
+          link: https://www.realme.com/realme-gt-neo-5-se?inviteId=n%2FcaxzTux%2FB8iwTPAIp8pF1O3fwoMbksn9TeH9Gc5FU%3D
+        - name: Redmi K30 至尊纪念版
+          specification: 极夜黑 / 6G+128G
+          description: 小米十年献礼之作，搭载联发科天玑1000+处理器和三星E3 AMOLED屏，性价比不错，缺点是天玑初代Soc的发热有点严重。
+          image: https://img.cnlmc.ip-ddns.com/PicGo/红米K30至尊纪念版.png
+          link: https://www.mi.com/redmiK30ultra
+
+    - title: 出行
+      description: 用来出行的实物及设备
+      equipment_list:
+        - name: 真我Buds T100
+          specification: 流行白
+          description: 一款中规中矩的无线蓝牙耳机。
+          image: https://img.cnlmc.ip-ddns.com/PicGo/真我Buds T100.png
+          link: https://www.realme.com/sg/realme-buds-t100
+        - name: 小米手环7 Pro
+          specification: 夜跃黑
+          description: 很酷、很时尚的智能手环，功能挺多的。
+          image: https://cdn.cnbj1.fds.api.mi-img.com/product-images/shouhuan7pro9fgqdx/1479.png
+          link: https://www.mi.com/shouhuan7pro
+        

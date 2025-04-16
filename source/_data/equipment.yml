@@ -6,10 +6,10 @@
     - title: 生产力
       description: 提升自己生产效率的硬件设备
       equipment_list:
-        - name: 战神Z7-CT5NS
+        - name: 神舟战神Z7-CT5NS
           specification: 16G / 512G
           description: i5-9300H GTX1660Ti 15.6英寸窄边框游戏本。
-          image: http://haseecomputer.com/upload/%E6%88%98%E7%A5%9EZ7-CT5NS/1.jpg
+          image: https://img.cnlmc.ip-ddns.com/PicGo/神舟战神z7 ct5ns.jpg
           link: http://haseecomputer.com/PC/detail_1079.html
         - name: 真我GT Neo5 SE
           specification: 圣白幻影 / 16G+1T
@@ -33,6 +33,6 @@
         - name: 小米手环7 Pro
           specification: 夜跃黑
           description: 很酷、很时尚的智能手环，功能挺多的。
-          image: https://cdn.cnbj1.fds.api.mi-img.com/product-images/shouhuan7pro9fgqdx/1479.png
+          image: https://img.cnlmc.ip-ddns.com/PicGo/小米手环7 Pro.png
           link: https://www.mi.com/shouhuan7pro
         

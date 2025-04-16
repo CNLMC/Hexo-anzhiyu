@@ -1,0 +1,93 @@
+- class_name: 关于页
+  subtitle: 生活明朗，万物可爱✨
+  avatarImg: https://avatars.githubusercontent.com/u/71023553?s=400&u=bff93d45669722f6c1f286dd81c504f25472714f&v=4
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: 李明灿
+  description: 是一名 测试工程师、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: 软件技术专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，天津市
+    background: https://img.cnlmc.ip-ddns.com/PicGo/天津.png
+    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2000
+    selfInfoTips2: 天津职业大学
+    selfInfoContent2: 软件技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 测试工程师
+  personalities:
+    author_name: 活动家
+    personality_type: ENFP-A
+    photo_url: https://img.cnlmc.ip-ddns.com/PicGo/南京秦淮河旁.jpg
+    personality_img: https://img.cnlmc.ip-ddns.com/PicGo/活动家.svg
+    name_url: https://www.16personalities.com/profiles/enfp-a/m/1sdnahxa8
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 苟利国家生死以，
+    maxim_bottom: 岂因祸福避趋之。
+  buff:
+    buff_tips: 特长
+    buff_top: 游泳
+    buff_bottom: 打机
+  game:
+    game_tips: 爱好游戏
+    game_title: 绝地求生
+    game_uid: "UID: LMC2000"
+    game_bg: https://img.cnlmc.ip-ddns.com/PicGo/绝地求生.jpg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 名侦探柯南
+        href: https://www.bilibili.com/bangumi/play/ss33415?spm_id_from=333.337.0.0
+        cover: https://img.cnlmc.ip-ddns.com/PicGo/名侦探柯南.jpeg
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 银临、古风
+    music_bg: https://img.cnlmc.ip-ddns.com/PicGo/银临12.jpeg
+    music_link: /music
+  reward_list:
+    - name: 梅西是GOAT
+      amount: 6.6
+      datatime: 2025-04-16
+    

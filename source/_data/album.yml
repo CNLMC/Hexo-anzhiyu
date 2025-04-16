@@ -1,0 +1,67 @@
+- class_name: 银临
+  path_name: /yinlin
+  type: 2
+  description: 关于银临的图片
+  cover: https://img.cnlmc.ip-ddns.com/PicGo/银临3.jpeg
+  top_background: https://img.cnlmc.ip-ddns.com/PicGo/银临12.jpeg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2025/04/16 15:19:00
+      content: 银临
+      address: 天津
+      from: 
+      image:
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临1.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临2.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临3.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临4.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临5.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临6.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临7.jpeg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临8.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临9.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临10.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临11.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/银临12.jpeg
+
+- class_name: 美食
+  path_name: /food
+  type: 2
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  description: 吃过的美食与大餐
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://img.cnlmc.ip-ddns.com/PicGo/美食9.jpg
+  cover: https://img.cnlmc.ip-ddns.com/PicGo/美食7.jpg
+  album_list:
+    - date: 2025/04/16 15:19:00
+      content: 美食
+      address: 南宁
+      from: CNLMC
+      image:
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食1.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食2.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食3.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食4.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食5.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食6.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食7.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食8.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食9.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食10.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食11.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食12.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食13.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食14.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食15.jpg
+        - https://img.cnlmc.ip-ddns.com/PicGo/美食16.jpg

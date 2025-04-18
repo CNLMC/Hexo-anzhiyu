@@ -6,14 +6,12 @@ menu:
 
   友链:
     友人帐: /link/ || anzhiyu-icon-link
-    朋友圈: /fcircle/ || anzhiyu-icon-artstation
     留言板: /comments/ || anzhiyu-icon-envelope
 
   我的:
     音乐馆: /music/?id=13556574207&server=netease || anzhiyu-icon-music
     追番页: /bangumis/ || anzhiyu-icon-bilibili
     相册集: /album/ || anzhiyu-icon-images
-    小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
     关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -1079,8 +1077,8 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 
-    title: 欢迎来到我的博客
+    tips:  你好啊！
+    title: 欢迎来到我的博客！
     image: https://img.cnlmc.ip-ddns.com/PicGo/头像图片.jpg
     link: /about/
 

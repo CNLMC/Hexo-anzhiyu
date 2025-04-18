@@ -430,10 +430,10 @@ footer:
   owner:
     enable: true
     since: 2025
-  custom_text:
+  custom_text: <a href="https://beian.miit.gov.cn"><img class="icp-icon" src="https://img.cnlmc.ip-ddns.com/PicGo/备案国徽图标.webp"><span style="color:grey">津ICP备2025031876号-1</span></a>
   runtime:
     enable: true
-    launch_time: 04/15/2025 00:47:00 # 网站上线时间
+    launch_time: 04/18/2025 13:00:00 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 待到秋来九月八，我花开后百花杀。
     offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
@@ -1078,7 +1078,7 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips:  你好啊！
-    title: 欢迎来到我的博客！
+    title: 欢迎！欢迎！
     image: https://img.cnlmc.ip-ddns.com/PicGo/头像图片.jpg
     link: /about/
 

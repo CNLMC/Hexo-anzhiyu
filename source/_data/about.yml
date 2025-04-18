@@ -86,8 +86,8 @@
     music_title: 银临、古风
     music_bg: https://img.cnlmc.ip-ddns.com/PicGo/银临12.jpeg
     music_link: /music/?id=13556574207&server=netease
-  reward_list:
-    - name: 梅西是GOAT
-      amount: 6.6
-      datatime: 2025-04-16
+  # reward_list:
+  #   - name: 梅西是GOAT
+  #     amount: 6.6
+  #     datatime: 2025-04-16
     
